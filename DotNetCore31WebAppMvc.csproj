@@ -5,4 +5,8 @@
     <UserSecretsId>f23bab69-b320-4430-a469-fea4fb4b6c8d</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
+
 </Project>
