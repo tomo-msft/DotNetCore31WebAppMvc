@@ -12,7 +12,7 @@ namespace SampleApp.Controllers
 {
     public class HomeController : Controller
     {
-        private string LogHeader = ".NET Core 3.1 Application Insights Auto Instrumentation";
+        private string LogHeader = ".NET Core 3.1 App";
 
         private readonly ILogger<HomeController> _logger;
 
